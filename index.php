@@ -11,7 +11,7 @@
             <input type="file" name="file" id="file"><br>
             <input type="submit" name="submit" value="Submit">
         </form>
-        <h2>UPLOADED IMAGES</h2>
+        <h2>UPLOADED IMAGES HELLO</h2>
         <div>
             <?php
                 $files = scandir("uploadedimages/");
